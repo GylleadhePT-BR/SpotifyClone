@@ -27,14 +27,14 @@ export function Main(){
               </button>
             </a>
             <a className="bg-white/10 rounded-lg group flex items-center overflow-hidden gap-4 hover:bg-white/20 transition-colors cursor-pointer">
-              <Image src="/album.jpg" width={112} height={112} alt="album de phill veras" />
+              <Image src="/drake.jpg" width={112} height={112} alt="album de phill veras" />
               <strong>A porta</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a className="bg-white/10 rounded-lg group flex items-center overflow-hidden gap-4 hover:bg-white/20 transition-colors cursor-pointer">
-              <Image src="/album.jpg" width={112} height={112} alt="album de phill veras" />
+              <Image src="/phillveras.jpeg" width={112} height={112} alt="album de phill veras" />
               <strong>A porta</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-8 invisible group-hover:visible">
                 <Play />
@@ -68,27 +68,27 @@ export function Main(){
 
           <div className="grid grid-cols-5 gap-4 mt-4">
             <a className="bg-white/5 p-3 rounded-lg hover:bg-white/10 cursor-pointer flex flex-col gap-3">
-              <Image src="/album.jpg" width={48} className='w-full' height={48} alt="album de phill veras" />
+              <Image src="/album.jpg" width={100} className='w-full' height={48} alt="album de phill veras" />
               <strong>Daily mix</strong>
               <span className='text-sm text-zinc-500'>Pfill veras , brunos mars , jack newman</span>
             </a>
             <a className="bg-white/5 p-3 rounded-lg hover:bg-white/10 cursor-pointer flex flex-col gap-3">
-              <Image src="/album.jpg" width={48} className='w-full' height={48} alt="album de phill veras" />
+              <Image src="/album.jpg" width={100} className='w-full' height={48} alt="album de phill veras" />
               <strong>Daily mix</strong>
               <span className='text-sm text-zinc-500'>Pfill veras , brunos mars , jack newman</span>
             </a>
             <a className="bg-white/5 p-3 rounded-lg hover:bg-white/10 cursor-pointer flex flex-col gap-3">
-              <Image src="/album.jpg" width={48} className='w-full' height={48} alt="album de phill veras" />
+              <Image src="/album.jpg" width={100} className='w-full' height={48} alt="album de phill veras" />
               <strong>Daily mix</strong>
               <span className='text-sm text-zinc-500'>Pfill veras , brunos mars , jack newman</span>
             </a>
             <a className="bg-white/5 p-3 rounded-lg hover:bg-white/10 cursor-pointer flex flex-col gap-3">
-              <Image src="/album.jpg" width={48} className='w-full' height={48} alt="album de phill veras" />
+              <Image src="/album.jpg" width={100} className='w-full' height={48} alt="album de phill veras" />
               <strong>Daily mix</strong>
               <span className='text-sm text-zinc-500'>Pfill veras , brunos mars , jack newman</span>
             </a>
             <a className="bg-white/5 p-3 rounded-lg hover:bg-white/10 cursor-pointer flex flex-col gap-3">
-              <Image src="/album.jpg" width={48} className='w-full' height={48} alt="album de phill veras" />
+              <Image src="/album.jpg" width={100} className='w-full' height={48} alt="album de phill veras" />
               <strong>Daily mix</strong>
               <span className='text-sm text-zinc-500'>Pfill veras , brunos mars , jack newman</span>
             </a>
